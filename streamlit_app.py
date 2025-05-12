@@ -13,3 +13,5 @@ import numpy as np
 
 st.set_page_config(layout="wide", initial_sidebar_state="expanded")
 sns.set_style("whitegrid")
+
+st.sidebar.header("Filtros del Dashboard")
