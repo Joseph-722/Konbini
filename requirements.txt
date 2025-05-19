@@ -4,5 +4,3 @@ matplotlib
 seaborn
 numpy
 plotly
-plotly.express
-plotly.graph_objects
